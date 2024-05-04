@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-04T15:10:17.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="pXlVTab77UEDQfpw17f3" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-04T15:10:33.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="GueuOnPP74v79Z3mWPQR" version="24.3.1" type="github" pages="3">
   <diagram name="Page-1" id="FDeaAZcfkvpqaY_wTCAR">
     <mxGraphModel dx="1143" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="DBiPGsDdonl4earWy9HF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=diamondThin;startFill=1;" edge="1" parent="1" source="8rV2j_o-DbD-LVuExFou-3" target="8rV2j_o-DbD-LVuExFou-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8rV2j_o-DbD-LVuExFou-3" value="&amp;lt;&amp;lt;process&amp;gt;&amp;gt;&lt;div&gt;AuthenticationApplication&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8rV2j_o-DbD-LVuExFou-3" value="&amp;lt;&amp;lt;process&amp;gt;&amp;gt;&lt;div&gt;SignInApplication&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="325" y="70" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DBiPGsDdonl4earWy9HF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=diamondThin;startFill=1;" edge="1" parent="1" source="DBiPGsDdonl4earWy9HF-4">
