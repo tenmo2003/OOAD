@@ -46,8 +46,8 @@
         <mxCell id="KMuXkZQok5yhQ_NeZ2Zq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="KMuXkZQok5yhQ_NeZ2Zq-4" target="KMuXkZQok5yhQ_NeZ2Zq-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KMuXkZQok5yhQ_NeZ2Zq-13" value="&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;3. Encrypt data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="430" width="100" height="30" as="geometry" />
+        <mxCell id="KMuXkZQok5yhQ_NeZ2Zq-13" value="&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;3. Encrypt data&lt;br&gt;and convert into text/plain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="430" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KMuXkZQok5yhQ_NeZ2Zq-14" value="&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;4. Send request with encrypted data (id of sender included)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="340" width="340" height="30" as="geometry" />
