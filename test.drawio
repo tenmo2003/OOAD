@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.14" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="4">
   <diagram name="Centralized public key" id="oo597pJgYp1TrV0M0NB_">
     <mxGraphModel dx="1183" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -262,6 +262,95 @@
         </mxCell>
         <mxCell id="0fZYU7RIU9vL3Javpd5t-16" value="&lt;b&gt;NEEDS TO KNOW AUTH ENDPOINT&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="75" y="98" width="230" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AS222tclx0SvEK_9zpj1" name="RSA">
+    <mxGraphModel dx="1195" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cKGgXLVia2bSgSM4aeMZ-2" target="cKGgXLVia2bSgSM4aeMZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-2" value="Backend" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cKGgXLVia2bSgSM4aeMZ-4" target="cKGgXLVia2bSgSM4aeMZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-4" value="Backend" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.367;exitDx=0;exitDy=0;entryX=0.017;entryY=0.367;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="cKGgXLVia2bSgSM4aeMZ-6" target="cKGgXLVia2bSgSM4aeMZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="cKGgXLVia2bSgSM4aeMZ-6" target="cKGgXLVia2bSgSM4aeMZ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-6" value="&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;WSO2&lt;div&gt;id: US&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.008;exitY=0.617;exitDx=0;exitDy=0;entryX=0.992;entryY=0.617;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="cKGgXLVia2bSgSM4aeMZ-9" target="cKGgXLVia2bSgSM4aeMZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cKGgXLVia2bSgSM4aeMZ-9" target="cKGgXLVia2bSgSM4aeMZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="cKGgXLVia2bSgSM4aeMZ-9" target="cKGgXLVia2bSgSM4aeMZ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-9" value="&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;WSO2&lt;div&gt;id: BR&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-10" value="&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;1. Request with&lt;br&gt;&amp;nbsp;Plain data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="280" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="cKGgXLVia2bSgSM4aeMZ-6" target="cKGgXLVia2bSgSM4aeMZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-12" value="&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;3. Encrypt data with acquired public key&lt;br&gt;11. Decrypt data with private key" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="430" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-13" value="&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;4. Send request with encrypted data with&lt;div&gt;&amp;nbsp;public key retrieve url in header&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="335" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-14" value="&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;10. Send &lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;response with encrypted data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="390" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="cKGgXLVia2bSgSM4aeMZ-9" target="cKGgXLVia2bSgSM4aeMZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-16" value="&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;5. &lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;Decrypt data with private key&lt;div&gt;6. Save context of public key retrieve url&lt;br&gt;&lt;div&gt;&lt;div&gt;9. Encrypt data with acquired public key&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="430" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-17" value="&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;6. Request with&lt;br&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;decrypted (plain) data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-18" value="7. &lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;Response with&lt;br&gt;&amp;nbsp;Plain data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="715" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="350" as="sourcePoint" />
+            <mxPoint x="170" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-20" value="12. Response with&lt;br&gt;decrypted data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-23" value="Public key provider" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="550" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-25" value="2. Get public key" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=23;" vertex="1" parent="1">
+          <mxGeometry x="470" y="500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-26" value="Public key provider" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="550" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-28" value="&lt;span style=&quot;background-color: initial;&quot;&gt;8. Get public key with&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;url from context&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-20;" vertex="1" parent="1">
+          <mxGeometry x="290" y="510" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
