@@ -289,7 +289,7 @@
         <mxCell id="cKGgXLVia2bSgSM4aeMZ-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="cKGgXLVia2bSgSM4aeMZ-6" target="cKGgXLVia2bSgSM4aeMZ-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cKGgXLVia2bSgSM4aeMZ-6" value="&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;WSO2&lt;div&gt;id: US&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-6" value="&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;WSO2&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;1&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cKGgXLVia2bSgSM4aeMZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.008;exitY=0.617;exitDx=0;exitDy=0;entryX=0.992;entryY=0.617;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="cKGgXLVia2bSgSM4aeMZ-9" target="cKGgXLVia2bSgSM4aeMZ-6">
@@ -301,7 +301,7 @@
         <mxCell id="cKGgXLVia2bSgSM4aeMZ-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="cKGgXLVia2bSgSM4aeMZ-9" target="cKGgXLVia2bSgSM4aeMZ-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cKGgXLVia2bSgSM4aeMZ-9" value="&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;WSO2&lt;div&gt;id: BR&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cKGgXLVia2bSgSM4aeMZ-9" value="&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;WSO2 2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cKGgXLVia2bSgSM4aeMZ-10" value="&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;&lt;span id=&quot;selected_text&quot;&gt;&lt;/span&gt;1. Request with&lt;br&gt;&amp;nbsp;Plain data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
